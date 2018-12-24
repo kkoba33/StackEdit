@@ -12,7 +12,7 @@ Googleアカウントと関連付けしておけば、Google Photoにある画�
 [enter link description here](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 
 
-
+[<img src="https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc">](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 ![Foo](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 
 ## Link
@@ -69,6 +69,6 @@ BloggerにCSSを追加する方法
 以前の記事でTableタグを使って２段組みにしていた部分がすべて作り直しに… 面倒なのでdivタグのwith属性だけで何とかするか。
 コード部分のCSSについてはダメダメなので改善したい…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNTE5MjU3LDE4NTczNzQzOTQsLTE0Nj
-A3MzM5NDVdfQ==
+eyJoaXN0b3J5IjpbLTUzMzY2OTI1OCwxODU3Mzc0Mzk0LC0xND
+YwNzMzOTQ1XX0=
 -->
