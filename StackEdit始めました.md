@@ -11,9 +11,11 @@ Googleアカウントと関連付けしておけば、Google Photoにある画�
 ![enter image description here](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc "Coffee")
 [enter link description here](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 
-画像を選択してPopupさせたい場合は下記きｊ
+画像を選択してPopupさせたい場合
 [
-![Foo](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
+![Coffee](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc "")](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
+
+
 
 ## Link
 [Microsoft MSDN Home](https://msdn.microsoft.com/ja-jp/dn308572.aspx?f=255&MSPPError=-2147217396)
@@ -69,6 +71,6 @@ BloggerにCSSを追加する方法
 以前の記事でTableタグを使って２段組みにしていた部分がすべて作り直しに… 面倒なのでdivタグのwith属性だけで何とかするか。
 コード部分のCSSについてはダメダメなので改善したい…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTg4NjM5MywxODU3Mzc0Mzk0LC0xND
+eyJoaXN0b3J5IjpbMTAwNzIzMjY2NCwxODU3Mzc0Mzk0LC0xND
 YwNzMzOTQ1XX0=
 -->
