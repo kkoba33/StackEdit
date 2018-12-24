@@ -11,9 +11,9 @@ Googleアカウントと関連付けしておけば、Google Photoにある画�
 ![enter image description here](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc "Coffee")
 [enter link description here](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 
-[<img src="https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc">](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 
-[![Foo](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
+
+![Foo](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc)
 
 ## Link
 [Microsoft MSDN Home](https://msdn.microsoft.com/ja-jp/dn308572.aspx?f=255&MSPPError=-2147217396)
@@ -69,6 +69,6 @@ BloggerにCSSを追加する方法
 以前の記事でTableタグを使って２段組みにしていた部分がすべて作り直しに… 面倒なのでdivタグのwith属性だけで何とかするか。
 コード部分のCSSについてはダメダメなので改善したい…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ3NDYzMzksMTg1NzM3NDM5NCwtMT
-Q2MDczMzk0NV19
+eyJoaXN0b3J5IjpbMzAwNTE5MjU3LDE4NTczNzQzOTQsLTE0Nj
+A3MzM5NDVdfQ==
 -->
