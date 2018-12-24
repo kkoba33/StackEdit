@@ -5,7 +5,10 @@
 
 ## 画像
 Googleアカウントと関連付けしておけば、Google Photoにある画像を参照出来ます。
-![enter image description here](https://lh3.googleusercontent.com/z3Oyp0-nFZ4BNEag22OQ3F4Sd9gCr9-PuaDGb24cx5iZODpifsYh68xFmgRvefHoporpGHHgeSlm "Cofee＆PC")
+![enter image description here](https://lh3.googleusercontent.com/z3Oyp0-nFZ4BNEag22OQ3F4Sd9gCr9-PuaDGb24cx5iZODpifsYh68xFmgRvefHoporpGHHgeSlm "Coffee＆PC")
+
+画像のリンク
+![enter image description here](https://lh3.googleusercontent.com/WYpURKGjDK0VynLO3BqMv6xptgSvSexERSEWeLq3K36Oa9q4XieddpteKtcb1Z1xu6_2irrlNEAc "Coffee")
 
 ## Link
 [Microsoft MSDN Home](https://msdn.microsoft.com/ja-jp/dn308572.aspx?f=255&MSPPError=-2147217396)
@@ -61,5 +64,5 @@ BloggerにCSSを追加する方法
 以前の記事でTableタグを使って２段組みにしていた部分がすべて作り直しに… 面倒なのでdivタグのwith属性だけで何とかするか。
 コード部分のCSSについてはダメダメなので改善したい…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA3MzM5NDVdfQ==
+eyJoaXN0b3J5IjpbMTg1NzM3NDM5NCwtMTQ2MDczMzk0NV19
 -->
