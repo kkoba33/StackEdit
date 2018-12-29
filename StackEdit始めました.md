@@ -42,7 +42,6 @@ Syntax highlight for the Web
     SELECT @@VERSION;
     
     Use[MyStockDB]
-    
     DECLARE @Name varchar(100) = 'トヨタ'
     
     SELECT * FROM vwCodeList AS X
@@ -71,6 +70,6 @@ BloggerにCSSを追加する方法
 以前の記事でTableタグを使って２段組みにしていた部分がすべて作り直しに… 面倒なのでdivタグのwith属性だけで何とかするか。
 コード部分のCSSについてはダメダメなので改善したい…
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMjY4OTA4LDE4NTczNzQzOTQsLTE0Nj
-A3MzM5NDVdfQ==
+eyJoaXN0b3J5IjpbMTMwNjg5Mjk1NCw1NzEyNjg5MDgsMTg1Nz
+M3NDM5NCwtMTQ2MDczMzk0NV19
 -->
